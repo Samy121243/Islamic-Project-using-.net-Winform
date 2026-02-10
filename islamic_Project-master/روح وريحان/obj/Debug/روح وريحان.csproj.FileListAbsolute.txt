@@ -1,0 +1,54 @@
+C:\Users\dell\source\repos\روح وريحان\bin\Debug\روح وريحان.exe.config
+C:\Users\dell\source\repos\روح وريحان\bin\Debug\روح وريحان.exe
+C:\Users\dell\source\repos\روح وريحان\bin\Debug\روح وريحان.pdb
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح وريحان.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form1.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Properties.Resources.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح وريحان.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح وريحان.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح وريحان.exe
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح وريحان.pdb
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form2.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form3.resources
+C:\Users\dell\source\repos\روح وريحان\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\source\repos\روح وريحان\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح وريحان.csproj.ResolveComReference.cache
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form4.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form5.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form6.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form7.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form10.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form11.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form8.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form9.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form12.resources
+C:\Users\dell\source\repos\روح وريحان\obj\Debug\روح_وريحان.Form13.resources
+E:\روح وريحان\bin\Debug\روح وريحان.exe.config
+E:\روح وريحان\bin\Debug\روح وريحان.exe
+E:\روح وريحان\bin\Debug\روح وريحان.pdb
+E:\روح وريحان\bin\Debug\Interop.WMPLib.dll
+E:\روح وريحان\bin\Debug\AxInterop.WMPLib.dll
+E:\روح وريحان\obj\Debug\روح وريحان.csproj.AssemblyReference.cache
+E:\روح وريحان\obj\Debug\Interop.WMPLib.dll
+E:\روح وريحان\obj\Debug\AxInterop.WMPLib.dll
+E:\روح وريحان\obj\Debug\روح وريحان.csproj.ResolveComReference.cache
+E:\روح وريحان\obj\Debug\روح_وريحان.Form1.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form10.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form11.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form12.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form13.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form2.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form3.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form4.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form5.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form6.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form7.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form8.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Form9.resources
+E:\روح وريحان\obj\Debug\روح_وريحان.Properties.Resources.resources
+E:\روح وريحان\obj\Debug\روح وريحان.csproj.GenerateResource.cache
+E:\روح وريحان\obj\Debug\روح وريحان.csproj.CoreCompileInputs.cache
+E:\روح وريحان\obj\Debug\روح وريحان.exe
+E:\روح وريحان\obj\Debug\روح وريحان.pdb
